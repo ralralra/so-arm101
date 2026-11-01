@@ -1,0 +1,6 @@
+{
+  "name": "so-arm101-slides",
+  "private": true,
+  "description": "SO-ARM101 윈도우 실습 교재 PPT 생성 스크립트",
+  "dependencies": { "pptxgenjs": "^4.0.1" }
+}
